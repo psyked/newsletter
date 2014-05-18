@@ -1,22 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Front View
+description:      News and Updates from the Front End Team
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+# url:              http://localhost:4000
+url:                
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           MMT Digital
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          frontendteam@mmtdigital.co.uk
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        MMT_Digital
+  facebook:       mmtdigital
+  github:         mmtdigital
   stackexchange:  
-  linkedin:       
+  linkedin:       mmtdigital
   instagram:      
   flickr:         
   tumblr:         
@@ -36,11 +37,11 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
