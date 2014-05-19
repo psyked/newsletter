@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>//psyked.github.io/newsletter</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>//psyked.github.io/newsletter/404.html</loc>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>//psyked.github.io/newsletter/about/</loc>
     </url>
     
     <url>
-        <loc>/articles/</loc>
+        <loc>//psyked.github.io/newsletter/articles/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>//psyked.github.io/newsletter/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>//psyked.github.io/newsletter/index.html</loc>
     </url>
     
     <url>
-        <loc>/search.json</loc>
+        <loc>//psyked.github.io/newsletter/search.json</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>//psyked.github.io/newsletter/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>//psyked.github.io/newsletter/tags/</loc>
     </url>
     
     <url>
-        <loc>/theme-setup/</loc>
+        <loc>//psyked.github.io/newsletter/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>/articles/code-highlighting-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>/articles/sample-link-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/sample-link-post/</loc>
     </url>
     
     <url>
-        <loc>/articles/video-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/video-post/</loc>
     </url>
     
     <url>
-        <loc>/articles/readability-feature-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>/articles/sample-post-images/</loc>
+        <loc>//psyked.github.io/newsletter/articles/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>/articles/readability-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/readability-post/</loc>
     </url>
     
     <url>
-        <loc>/articles/sample-post/</loc>
+        <loc>//psyked.github.io/newsletter/articles/sample-post/</loc>
     </url>
     
 </urlset>
