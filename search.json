@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "...on &quot;Responsive Images&quot;",
+		  "category"   : "presentations",
+		  "url"        : "//psyked.github.io/newsletter/presentations/responsiveimages/",
+		  "date"       : "2014-03-27 00:00:00 -0400",
+		  "shortdate"  : "March 27, 2014"
+		} ,
+	
+		{
 		  "title"      : "Syntax Highlighting Post",
 		  "category"   : "articles",
 		  "url"        : "//psyked.github.io/newsletter/articles/code-highlighting-post/",
