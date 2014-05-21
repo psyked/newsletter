@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: ...on "Responsive Images"
 description: "Responsive Images (in 10 minutes)"
 category: presentations
@@ -36,3 +36,4 @@ All of these techniques have their benefits, and there's decent polyfill librari
 - [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
 - [A Q&A on the Picture Element](http://alistapart.com/blog/post/picture-element-qa)
 - [HTML5 adaptive images: end of round one](http://html5doctor.com/html5-adaptive-images-end-of-round-one/)
+- [Srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/)
