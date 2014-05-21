@@ -142,12 +142,21 @@
 
 <ul>
   <li>Javascript-based solutions give us the best cross-browser support.</li>
-  <li>SVG and the ‘Clown Car’ technique gives us the most complete feature set for todays’ browsers, but it’s difficult to generate and manage those files.</li>
-  <li>Srcset is available in the latest version of Chrome, Safari and Firefox, but it doesn’t cover all of the possible ‘responsive image’ definitions.</li>
-  <li>The Picture element is touted as the future, but the spec is not settled and no browsers implement it yet.</li>
+  <li>SVG and the ‘Clown Car’ technique gives us the most complete feature set for todays’ browsers, works in <a href="http://caniuse.com/#feat=css-mediaqueries,svg">practically all browsers</a>, but it’s difficult to generate and manage those files.</li>
+  <li><strong>srcset</strong> is available in the <a href="http://caniuse.com/srcset">latest version of Chrome</a>, but it doesn’t cover all of the possible ‘responsive image’ definitions.</li>
+  <li>The <strong>Picture</strong> element is touted as the future, but the spec is not settled and no browsers implement it yet.</li>
 </ul>
 
 <p>All of these techniques have their benefits, and there’s decent polyfill libraries available for them, so a lot of the choices come down to evaluating the manageability of the solution and the importance of the element.</p>
+
+<h2 id="further-reading">Further Reading</h2>
+
+<ul>
+  <li><a href="http://responsiveimages.org/">Responsive Images Community Group</a></li>
+  <li><a href="http://css-tricks.com/which-responsive-images-solution-should-you-use/">Which responsive images solution should you use?</a></li>
+  <li><a href="http://alistapart.com/blog/post/picture-element-qa">A Q&amp;A on the Picture Element</a></li>
+  <li><a href="http://html5doctor.com/html5-adaptive-images-end-of-round-one/">HTML5 adaptive images: end of round one</a></li>
+</ul>
 
         
       </div><!-- /.entry-content -->
@@ -217,6 +226,22 @@
   })( jQuery, window );
 </script>
 
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-51214928-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
