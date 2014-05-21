@@ -1,7 +1,7 @@
 title:            Front View
 description:      News and Updates from the Front End Team
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: fett-newsletter
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # url:              http://localhost:4000
