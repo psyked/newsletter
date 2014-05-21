@@ -24,8 +24,15 @@ In this presentation we looked at all of these, their limitations and their stre
 ## Summary
 
 - Javascript-based solutions give us the best cross-browser support.
-- SVG and the 'Clown Car' technique gives us the most complete feature set for todays' browsers, but it's difficult to generate and manage those files.
-- Srcset is available in the latest version of Chrome, Safari and Firefox, but it doesn't cover all of the possible 'responsive image' definitions.
-- The Picture element is touted as the future, but the spec is not settled and no browsers implement it yet.
+- SVG and the 'Clown Car' technique gives us the most complete feature set for todays' browsers, works in [practically all browsers](http://caniuse.com/#feat=css-mediaqueries,svg), but it's difficult to generate and manage those files.
+- **srcset** is available in the [latest version of Chrome](http://caniuse.com/srcset), but it doesn't cover all of the possible 'responsive image' definitions.
+- The **Picture** element is touted as the future, but the spec is not settled and no browsers implement it yet.
 
 All of these techniques have their benefits, and there's decent polyfill libraries available for them, so a lot of the choices come down to evaluating the manageability of the solution and the importance of the element.
+
+## Further Reading
+
+- [Responsive Images Community Group](http://responsiveimages.org/)
+- [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
+- [A Q&A on the Picture Element](http://alistapart.com/blog/post/picture-element-qa)
+- [HTML5 adaptive images: end of round one](http://html5doctor.com/html5-adaptive-images-end-of-round-one/)
