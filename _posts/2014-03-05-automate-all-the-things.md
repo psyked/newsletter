@@ -72,4 +72,4 @@ control, once you're on the bandwagon you'll wonder why you ever tried to live w
 
 And finally, go build something awesome:
 
-![Automation is great, isn't it?](/images/automation-awesome.gif)
+![Automation is great, isn't it?](/newsletter/images/automation-awesome.gif)
