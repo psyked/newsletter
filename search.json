@@ -3,6 +3,14 @@
 		{
 		  "title"      : "...on &quot;Responsive Images&quot;",
 		  "category"   : "presentations",
+		  "url"        : "//psyked.github.io/newsletter/presentations/javascript-style-guide/",
+		  "date"       : "2014-05-21 00:00:00 -0400",
+		  "shortdate"  : "May 21, 2014"
+		} ,
+	
+		{
+		  "title"      : "...on &quot;Responsive Images&quot;",
+		  "category"   : "presentations",
 		  "url"        : "//psyked.github.io/newsletter/presentations/responsiveimages/",
 		  "date"       : "2014-03-27 00:00:00 -0400",
 		  "shortdate"  : "March 27, 2014"

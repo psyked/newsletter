@@ -4,13 +4,59 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//psyked.github.io/newsletter/feed.xml" />
 <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/" />
-<updated>2014-05-21T18:36:31-04:00</updated>
+<updated>2014-05-25T18:47:25-04:00</updated>
 <id>//psyked.github.io/newsletter/</id>
 <author>
   <name>MMT Digital</name>
   <uri>//psyked.github.io/newsletter/</uri>
   <email>frontendteam@mmtdigital.co.uk</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[...on "Responsive Images"]]></title>
+  <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/presentations/javascript-style-guide/"/>
+  <id>//psyked.github.io/newsletter/presentations/javascript-style-guide</id>
+  <published>2014-05-21T00:00:00-04:00</published>
+  <updated>2014-05-21T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>//psyked.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; element? What about &lt;code&gt;srcset&lt;/code&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+
+&lt;p&gt;In this presentation we looked at all of these, their limitations and their strengths, and examined which of these can actually be used &lt;em&gt;today.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluidMedia&quot;&gt;
+    &lt;iframe src=&quot;https://docs.google.com/presentation/d/1cktnpwyXfKdPyYuvcG0LhyjqOiBl4JbCkjGlMBbonNg/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Javascript-based solutions give us the best cross-browser support.&lt;/li&gt;
+  &lt;li&gt;SVG and the ‘Clown Car’ technique gives us the most complete feature set for todays’ browsers, works in &lt;a href=&quot;http://caniuse.com/#feat=css-mediaqueries,svg&quot;&gt;practically all browsers&lt;/a&gt;, but it’s difficult to generate and manage those files.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;srcset&lt;/strong&gt; is available in the &lt;a href=&quot;http://caniuse.com/srcset&quot;&gt;latest version of Chrome&lt;/a&gt;, but it doesn’t cover all of the possible ‘responsive image’ definitions.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Picture&lt;/strong&gt; element is touted as the future, but the spec is not settled and no browsers implement it yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of these techniques have their benefits, and there’s decent polyfill libraries available for them, so a lot of the choices come down to evaluating the manageability of the solution and the importance of the element.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://responsiveimages.org/&quot;&gt;Responsive Images Community Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://css-tricks.com/which-responsive-images-solution-should-you-use/&quot;&gt;Which responsive images solution should you use?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/blog/post/picture-element-qa&quot;&gt;A Q&amp;amp;A on the Picture Element&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://html5doctor.com/html5-adaptive-images-end-of-round-one/&quot;&gt;HTML5 adaptive images: end of round one&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ericportis.com/posts/2014/srcset-sizes/&quot;&gt;Srcset and sizes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/presentations/javascript-style-guide/&quot;&gt;...on "Responsive Images"&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on May 21, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
