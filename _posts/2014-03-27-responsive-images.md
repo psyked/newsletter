@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ...on "Responsive Images"
-description: "Responsive Images (in 10 minutes)"
+title: Responsive Images (in 10 minutes)
+description: Responsive Images (in 10 minutes)
 category: presentations
 tags: [images, presentations]
 image:

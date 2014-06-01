@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Testing Suite
-description: Testing Suite
+title: Introducing the Testing Suite
+description: Introducing the Testing Suite
 category: testing
 tags: [ghostscript, testing, batcave, instructions]
 author:
