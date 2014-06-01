@@ -6,10 +6,6 @@ category: presentations
 tags: [images, presentations]
 image:
   feature: responsive-web-design.jpg
-#  credit: Michael Rose
-#  creditlink: http://mademistakes.com
-comments: true
-#  share: true
 ---
 ## Introduction
 
