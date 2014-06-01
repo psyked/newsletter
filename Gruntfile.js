@@ -79,6 +79,21 @@ module.exports = function(grunt) {
         'assets/css/main.min.css',
         'assets/js/scripts.min.js'
       ]
+    },
+    favicons: {
+      options: {
+          trueColor: true,
+          precomposed: true,
+          appleTouchBackgroundColor: "#f10000",
+          coast: true,
+          windowsTile: true,
+          tileBlackWhite: false,
+          tileColor: "auto"
+      },
+      default: {
+          src: 'images/site-logo.png',
+          dest: './'
+      }
     }
   });
 
@@ -90,6 +105,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-recess');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-svgmin');
+  grunt.loadNpmTasks('grunt-favicons');
 
   // Register tasks
   grunt.registerTask('default', [
