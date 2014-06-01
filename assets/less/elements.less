@@ -57,6 +57,27 @@ figure {
     }
   }
 }
+.half {
+  @media @large {
+    img {
+      width: 310px;
+      float: left;
+      margin-right: 10px;
+    }
+    figcaption {
+      clear: left;
+    }
+  }
+}
+.third {
+  @media @large {
+    img {
+      width: 200px;
+      float: left;
+      margin-right: 10px;
+    }
+  }
+}
 svg:not(:root) {
   overflow: hidden; 
 }

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//psyked.github.io/newsletter/feed.xml" />
 <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/" />
-<updated>2014-06-01T17:03:21-04:00</updated>
+<updated>2014-06-01T18:45:49-04:00</updated>
 <id>//psyked.github.io/newsletter/</id>
 <author>
   <name>MMT Digital</name>
@@ -14,11 +14,83 @@
 
 
 <entry>
+  <title type="html"><![CDATA[May Roundup]]></title>
+  <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/summary/may-newsletter/"/>
+  <id>//psyked.github.io/newsletter/summary/may-newsletter</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>//psyked.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;p&gt;May 2014 heralds the inaugural edition of the Front End Team Newsletter, part of a drive to better share our
+collective wisdom, training resources, presentations and make them available with the rest of the company.&lt;/p&gt;
+
+&lt;p&gt;This month, we have the following content for your consumption:&lt;/p&gt;
+
+&lt;div class=&quot;pull-left&quot;&gt;
+  &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/ghostlab_robot.png&quot; alt=&quot;Ghostlab logo&quot; /&gt;&lt;/p&gt;
+
+  &lt;h2 id=&quot;introducing-the-testing-suitenewslettertestingtesting-suite&quot;&gt;&lt;a href=&quot;/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt;&lt;/h2&gt;
+  &lt;p&gt;As some of you may have noticed, the Batcaves’ Testing Suite has been implemented, and thanks to some volunteers, 
+beta tested. 
+&lt;strong&gt;So what is it, and how does it work?&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;div&gt;&lt;a href=&quot;/newsletter/testing/testing-suite/&quot; class=&quot;btn&quot;&gt;Read: Introducing the Testing Suite&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/accessibility-thumb.jpg&quot; alt=&quot;W3C logo&quot; /&gt;&lt;/p&gt;
+
+        &lt;h2 id=&quot;make-your-website-accessiblenewsletteraccessibilitymake-your-website-accessible&quot;&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. We, as 
+web developers, should do all we can to make sure we can make our site as accessible as possible.&lt;/p&gt;
+
+        &lt;div&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot; class=&quot;btn&quot;&gt;Read: Make your website accessible&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
+
+              &lt;h2 id=&quot;responsive-imagesnewsletterpresentationsresponsive-images&quot;&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images&lt;/a&gt;&lt;/h2&gt;
+              &lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;strong&gt;picture&lt;/strong&gt; element? What about 
+&lt;strong&gt;srcset&lt;/strong&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+
+              &lt;div&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot; class=&quot;btn&quot;&gt;Read: Responsive images (in 10 minutes)&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
+
+                    &lt;h2 id=&quot;automation-for-the-winnewslettertoolsautomate-all-the-things&quot;&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt;&lt;/h2&gt;
+                    &lt;p&gt;Great Developers are often also Lazy Developers. It’s not a criticism, it’s a good thing.  If you’re going to have to 
+repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
+
+                    &lt;div&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot; class=&quot;btn&quot;&gt;Read: Automation For The Win&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div&gt;
+                          &lt;blockquote&gt;
+                            &lt;p&gt;Until next time – The Front End Team&lt;/p&gt;
+                          &lt;/blockquote&gt;
+                        &lt;/div&gt;
+&lt;/p&gt;&lt;/div&gt;
+                  &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/summary/may-newsletter/&quot;&gt;May Roundup&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Introducing the Testing Suite]]></title>
   <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/testing/testing-suite/"/>
   <id>//psyked.github.io/newsletter/testing/testing-suite</id>
-  <published>2014-06-02T00:00:00-04:00</published>
-  <updated>2014-06-02T00:00:00-04:00</updated>
+  <published>2014-05-30T00:00:00-04:00</published>
+  <updated>2014-05-30T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
     <uri>//psyked.github.io/newsletter</uri>
@@ -79,12 +151,12 @@ quickly see your site across multiple browsers in their native environments.&lt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/xdissent/ievms&quot;&gt;GitHub: IEVMS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Make your website accessible.]]></title>
+  <title type="html"><![CDATA[Make your website accessible]]></title>
   <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/accessibility/make-your-website-accessible/"/>
   <id>//psyked.github.io/newsletter/accessibility/make-your-website-accessible</id>
   <published>2014-04-13T00:00:00-04:00</published>
@@ -148,7 +220,7 @@ help towards making your site accessible.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible.&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on April 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on April 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
