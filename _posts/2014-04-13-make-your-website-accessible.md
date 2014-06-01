@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Make your website accessible.
-description: Make your website accessible.
+title: Make your website accessible
+description: Make your website accessible
 category: accessibility
 tags: [accessibility, kentico, wai, w3c]
 author:
