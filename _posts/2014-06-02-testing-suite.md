@@ -20,7 +20,7 @@ user to manipulate a single device and see those replicate across each of the ot
 quickly see your site across multiple browsers in their native environments.
 
 ## Summary
-[Download the "Testing Suite Instructions" document.](/newsletter/assets/downloads/mmt-testing-suite.pdf)
+<div markdown="0"><a href="/newsletter/assets/downloads/mmt-testing-suite.pdf" class="btn">Download the "Testing Suite Instructions" document.</a></div>
 
 ### How does it work?
 <iframe width="420" height="315" src="//www.youtube.com/embed/QfLKXTv4d8Q" frameborder="0" allowfullscreen></iframe>
