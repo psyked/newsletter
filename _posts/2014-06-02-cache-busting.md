@@ -2,10 +2,14 @@
 layout: page
 title: Cache Busting
 description: Cache Busting
-category: testing
-tags: [ghostscript, testing, batcave, instructions]
+category: performance
+tags: [cache]
 author:
   name: Adrian Lansdown
+image:
+  feature: cache-busting.jpg
+  credit: Doug Kline
+  creditlink: https://www.flickr.com/photos/popculturegeek/7019135657
 ---
 ## Introduction
 Caching busting stops browsers from using a cached file when an new updated version is available.
