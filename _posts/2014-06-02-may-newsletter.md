@@ -25,7 +25,7 @@ beta tested.
 </div>
 
 <div markdown="1" class="pull-left">
-![W3C logo]({{ site.url }}/images/accessibility-thumb.jpg)
+![Accessibility image]({{ site.url }}/images/accessibility-thumb.jpg)
 {: .pull-right .third}
 
 ## [Make your website accessible]({{ site.baseurl }}/accessibility/make-your-website-accessible/)
@@ -33,6 +33,26 @@ There are lots of disabilities out there, but accessing your website should not 
 web developers, should do all we can to make sure we can make our site as accessible as possible.
 
 <div markdown="0"><a href="{{ site.baseurl }}/accessibility/make-your-website-accessible/" class="btn">Read: Make your website accessible</a><p></div>
+</div>
+
+<div markdown="1" class="pull-left">
+![Hulk bust cache!]({{ site.url }}/images/cache-busting-thumb.jpg)
+{: .pull-left .third}
+
+## [Cache Busting: Part 1]({{ site.baseurl }}/performance/cache-busting/)
+Caching busting stops browsers from using a cached file when an new updated version is available. So, how do you 'cache bust'?
+
+<div markdown="0"><a href="{{ site.baseurl }}/performance/cache-busting/" class="btn">Read: Cache Busting: Part 1</a><p></div>
+</div>
+
+<div markdown="1" class="pull-left">
+![Carousel image]({{ site.url }}/images/carousel-thumb.png)
+{: .pull-right .third}
+
+## [Carousels – Which are the good ones out there?]({{ site.baseurl }}/plugins/carousel-plugins/)
+How do you pick your Carousel plugin? Which ones are worth your time, and which aren't?
+
+<div markdown="0"><a href="{{ site.baseurl }}/plugins/carousel-plugins/" class="btn">Read: Carousels – Which are the good ones out there?</a><p></div>
 </div>
 
 <div markdown="1" class="pull-left">
