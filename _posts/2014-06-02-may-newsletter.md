@@ -50,7 +50,7 @@ Caching busting stops browsers from using a cached file when an new updated vers
 {: .pull-right .third}
 
 ## [Carousels – Which are the good ones out there?]({{ site.baseurl }}/plugins/carousel-plugins/)
-How do you pick your Carousel plugin? Which ones are worth your time, and which aren't?
+How do you pick your Carousel plugin? <br/>Which ones are worth your time, and which aren't?
 
 <div markdown="0"><a href="{{ site.baseurl }}/plugins/carousel-plugins/" class="btn">Read: Carousels – Which are the good ones out there?</a><p></div>
 </div>
