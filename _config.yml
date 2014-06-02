@@ -5,7 +5,7 @@ disqus_shortname: fett-newsletter
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # url:              http://localhost:4000
-url:                //psyked.github.io/newsletter
+url:              mmtdigital.github.io/newsletter
 baseurl:          /newsletter
 
 # Owner/author information
