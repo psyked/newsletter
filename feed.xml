@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//psyked.github.io/newsletter/feed.xml" />
 <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/" />
-<updated>2014-06-02T06:03:45-04:00</updated>
+<updated>2014-06-02T06:24:05-04:00</updated>
 <id>//psyked.github.io/newsletter/</id>
 <author>
   <name>MMT Digital</name>
@@ -41,7 +41,7 @@ beta tested.
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/accessibility-thumb.jpg&quot; alt=&quot;W3C logo&quot; /&gt;&lt;/p&gt;
+        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/accessibility-thumb.jpg&quot; alt=&quot;Accessibility image&quot; /&gt;&lt;/p&gt;
 
         &lt;h2 id=&quot;make-your-website-accessiblenewsletteraccessibilitymake-your-website-accessible&quot;&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt;&lt;/h2&gt;
         &lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. We, as 
@@ -51,31 +51,51 @@ web developers, should do all we can to make sure we can make our site as access
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
+              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/cache-busting-thumb.jpg&quot; alt=&quot;Hulk bust cache!&quot; /&gt;&lt;/p&gt;
 
-              &lt;h2 id=&quot;responsive-imagesnewsletterpresentationsresponsive-images&quot;&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images&lt;/a&gt;&lt;/h2&gt;
-              &lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;strong&gt;picture&lt;/strong&gt; element? What about 
-&lt;strong&gt;srcset&lt;/strong&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+              &lt;h2 id=&quot;cache-busting-part-1newsletterperformancecache-busting&quot;&gt;&lt;a href=&quot;/newsletter/performance/cache-busting/&quot;&gt;Cache Busting: Part 1&lt;/a&gt;&lt;/h2&gt;
+              &lt;p&gt;Caching busting stops browsers from using a cached file when an new updated version is available. So, how do you ‘cache bust’?&lt;/p&gt;
 
-              &lt;div&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot; class=&quot;btn&quot;&gt;Read: Responsive images (in 10 minutes)&lt;/a&gt;&lt;p&gt;
+              &lt;div&gt;&lt;a href=&quot;/newsletter/performance/cache-busting/&quot; class=&quot;btn&quot;&gt;Read: Cache Busting: Part 1&lt;/a&gt;&lt;p&gt;
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
+                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/carousel-thumb.png&quot; alt=&quot;Carousel image&quot; /&gt;&lt;/p&gt;
 
-                    &lt;h2 id=&quot;automation-for-the-winnewslettertoolsautomate-all-the-things&quot;&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt;&lt;/h2&gt;
-                    &lt;p&gt;Great Developers are often also Lazy Developers. It’s not a criticism, it’s a good thing.  If you’re going to have to 
+                    &lt;h2 id=&quot;carousels--which-are-the-good-ones-out-therenewsletterpluginscarousel-plugins&quot;&gt;&lt;a href=&quot;/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt;&lt;/h2&gt;
+                    &lt;p&gt;How do you pick your Carousel plugin? Which ones are worth your time, and which aren’t?&lt;/p&gt;
+
+                    &lt;div&gt;&lt;a href=&quot;/newsletter/plugins/carousel-plugins/&quot; class=&quot;btn&quot;&gt;Read: Carousels – Which are the good ones out there?&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                          &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
+
+                          &lt;h2 id=&quot;responsive-imagesnewsletterpresentationsresponsive-images&quot;&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images&lt;/a&gt;&lt;/h2&gt;
+                          &lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;strong&gt;picture&lt;/strong&gt; element? What about 
+&lt;strong&gt;srcset&lt;/strong&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+
+                          &lt;div&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot; class=&quot;btn&quot;&gt;Read: Responsive images (in 10 minutes)&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                                &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;//psyked.github.io/newsletter/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
+
+                                &lt;h2 id=&quot;automation-for-the-winnewslettertoolsautomate-all-the-things&quot;&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt;&lt;/h2&gt;
+                                &lt;p&gt;Great Developers are often also Lazy Developers. It’s not a criticism, it’s a good thing.  If you’re going to have to 
 repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
 
-                    &lt;div&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot; class=&quot;btn&quot;&gt;Read: Automation For The Win&lt;/a&gt;&lt;p&gt;
+                                &lt;div&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot; class=&quot;btn&quot;&gt;Read: Automation For The Win&lt;/a&gt;&lt;p&gt;
 
 
 &lt;div&gt;
-                          &lt;blockquote&gt;
-                            &lt;p&gt;Until next time – The Front End Team&lt;/p&gt;
-                          &lt;/blockquote&gt;
-                        &lt;/div&gt;
+                                      &lt;blockquote&gt;
+                                        &lt;p&gt;Until next time – The Front End Team&lt;/p&gt;
+                                      &lt;/blockquote&gt;
+                                    &lt;/div&gt;
 &lt;/p&gt;&lt;/div&gt;
+                              &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+                        &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
                   &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
             &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
       &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
