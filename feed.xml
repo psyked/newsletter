@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//psyked.github.io/newsletter/feed.xml" />
 <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/" />
-<updated>2014-06-01T18:46:56-04:00</updated>
+<updated>2014-06-02T06:03:45-04:00</updated>
 <id>//psyked.github.io/newsletter/</id>
 <author>
   <name>MMT Digital</name>
@@ -82,6 +82,104 @@ repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
 &lt;/div&gt;
 
   &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/summary/may-newsletter/&quot;&gt;May Roundup&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Carousels – Which are the good ones out there?]]></title>
+  <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/plugins/carousel-plugins/"/>
+  <id>//psyked.github.io/newsletter/plugins/carousel-plugins</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>//psyked.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I’ve got to be honest, when I’m usually hunting for a Carousel plug-in I usually just use the first one I come and then use that continuously until I come across a problem with it, I’ll then usually browse till the next one I come across.  This is done for convenience and to keep a project on target to reach its deadline but then when thinking it through, this might not meet all the requirements that I need from a carousel.&lt;/p&gt;
+
+&lt;p&gt;For this reason I thought this might be a good topic to write about because I’m sure there are people who feel the same as me, and it might also help when it comes to the next project I start on, which needs a Carousel.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;So what are we looking for in a carousel plug-in?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The ability to have more than one carousel on a page, especially useful when a client is ‘carousel thirsty’&lt;/li&gt;
+  &lt;li&gt;Works responsively&lt;/li&gt;
+  &lt;li&gt;Works well with both text and images&lt;/li&gt;
+  &lt;li&gt;Flexibility when it comes to the carousel itself (don’t want to be writing additional lines of code to customise the carousel, as the plug-in should be doing this for you)&lt;/li&gt;
+  &lt;li&gt;Easy to implement&lt;/li&gt;
+  &lt;li&gt;Compatible with other jQuery tools on your website&lt;/li&gt;
+  &lt;li&gt;Supports major browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So what’s out there on a glance that may help out with the above: -&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/royal-3d-carousel/5351369&quot;&gt;Royal 3D Carousel in JavaScript &amp;amp; CSS3&lt;/a&gt; &lt;em&gt;(Do have to pay for a licence)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kenwheeler.github.io/slick/&quot;&gt;Slick:jQuery Fully Responsive Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/everslider-responsive-jquery-carousel-plugin/5132868&quot;&gt;Everslider: Responsive jQuery Carousel Plugin&lt;/a&gt; &lt;em&gt;(Do have to pay for a licence)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bxslider.com/&quot;&gt;Bx Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wowslider.com/rq/jquery-carousel/&quot;&gt;Wow Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://baijs.com/tinycarousel/&quot;&gt;Tiny Carousel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The majority of the above, handle the requirements (from the bullet point list), that’s not to say they are the definitive list and there’s nothing to stop you building your own Jquery Carousel plug-in, but the above should help you on your way.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;http://www.jqueryrain.com/example/jquery-carousel-example/&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/royal-3d-carousel/5351369&quot;&gt;Royal 3D Carousel in JavaScript &amp;amp; CSS3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kenwheeler.github.io/slick/&quot;&gt;Slick:jQuery Fully Responsive Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/everslider-responsive-jquery-carousel-plugin/5132868&quot;&gt;Everslider: Responsive jQuery Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bxslider.com/&quot;&gt;Bx Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wowslider.com/rq/jquery-carousel/&quot;&gt;Wow Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://baijs.com/tinycarousel/&quot;&gt;Tiny Carousel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Cache Busting]]></title>
+  <link rel="alternate" type="text/html" href="//psyked.github.io/newsletter/performance/cache-busting/"/>
+  <id>//psyked.github.io/newsletter/performance/cache-busting</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>//psyked.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Caching busting stops browsers from using a cached file when an new updated version is available.&lt;/p&gt;
+
+&lt;p&gt;If you are following best practices for caching your assets (&lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching&quot;&gt;Google - Optimize Caching&lt;/a&gt;) you might find that browsers will used the cached version of a file even when a new updated version is available.&lt;/p&gt;
+
+&lt;p&gt;This issue becomes worse when proxies, load balancers and other &lt;em&gt;helpful&lt;/em&gt; machines are taken into consideration.&lt;/p&gt;
+
+&lt;p&gt;To get around problem you need to &lt;em&gt;cache bust&lt;/em&gt; meaning that the browser and anything in between knows to request the latest version of the file. There are a number of ways this can be done, best practice is to rename the whole file by appending a version number, date/time or hash to the end of the file name.&lt;/p&gt;
+
+&lt;p&gt;This process can be done a number of ways including: Build process, Grunt or Web server configuration.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Browsers, proxies and other servers can cache files even when they have changed.&lt;/li&gt;
+  &lt;li&gt;Giving a file a unique filename will help break any caching occurring on file updates.&lt;/li&gt;
+  &lt;li&gt;Renaming the file is better than adding a query string.&lt;/li&gt;
+  &lt;li&gt;Multiple ways of automating this process. Build Process, Grunt, Web Server configuration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.adopsinsider.com/ad-ops-basics/what-is-a-cache-buster-and-how-does-it-work/&quot;&gt;What is a cache buster and how does it work?&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/&quot;&gt;Revving Filenames: don’t use querystring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching?csw=1#LeverageProxyCaching&quot;&gt;Google : Leverage proxy caching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;//psyked.github.io/newsletter/performance/cache-busting/&quot;&gt;Cache Busting&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;//psyked.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 

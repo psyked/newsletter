@@ -5,30 +5,31 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Latest Posts &#8211; Front View</title>
-<meta name="description" content="A simple and clean responsive Jekyll theme for words and photos.">
-<meta name="keywords" content="Jekyll, theme, themes, responsive, blog, minimalism">
+<title>Cache Busting &#8211; Front View</title>
+<meta name="description" content="Cache Busting">
+<meta name="keywords" content="cache">
 
 <!-- Twitter Cards -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="//psyked.github.io/newsletter/images/site-logo.png">
-<meta name="twitter:title" content="Latest Posts">
-<meta name="twitter:description" content="A simple and clean responsive Jekyll theme for words and photos.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="//psyked.github.io/newsletter/images/cache-busting.jpg">
+
+<meta name="twitter:title" content="Cache Busting">
+<meta name="twitter:description" content="Cache Busting">
 <meta name="twitter:creator" content="@MMT_Digital">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Latest Posts">
-<meta property="og:description" content="A simple and clean responsive Jekyll theme for words and photos.">
-<meta property="og:url" content="//psyked.github.io/newsletter/index.html">
+<meta property="og:title" content="Cache Busting">
+<meta property="og:description" content="Cache Busting">
+<meta property="og:url" content="//psyked.github.io/newsletter/performance/cache-busting/">
 <meta property="og:site_name" content="Front View">
 
 
 
 
 
-<link rel="canonical" href="//psyked.github.io/newsletter/">
+<link rel="canonical" href="//psyked.github.io/newsletter/performance/cache-busting/">
 <link href="//psyked.github.io/newsletter/feed.xml" type="application/atom+xml" rel="alternate" title="Front View Feed">
 
 
@@ -92,41 +93,49 @@
 </div><!-- ./search-wrapper -->
 
 <header class="masthead">
-	<div class="wrap">
-        
-    		<a href="//psyked.github.io/newsletter/" class="site-logo" rel="home" title="Front View"><img src="//psyked.github.io/newsletter/images/site-logo.png" width="200" height="200" alt="Front View logo" class="animated fadeInUp"></a>
-        
-        <h1 class="site-title animated fadeIn"><a href="//psyked.github.io/newsletter/">Front View</a></h1>
-		<h2 class="site-description animated fadeIn" itemprop="description">News and Updates from the Front End Team</h2>
-	</div>
+	
+		<div class="wrap">
+			<a href="//psyked.github.io/newsletter/" class="site-logo" rel="home" title="Front View"><img src="//psyked.github.io/newsletter/images/site-logo.png" width="200" height="200" alt="Front View logo" class="animated bounceInDown"></a>
+		</div>
+	
 </header><!-- /.masthead -->
+
 
 
 <div id="main" role="main">
   <article class="entry">
-    
+    <img src="//psyked.github.io/newsletter/images/cache-busting.jpg" class="entry-feature-image" alt="Cache Busting" ><p class="image-credit">Photo Credit: <a href="https://www.flickr.com/photos/popculturegeek/7019135657">Doug Kline</a>
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">Latest Posts</h1>
+        <h1 class="entry-title">Cache Busting</h1>
       </header>
       <div class="entry-content">
-        <ul class="post-list">
- 
-  <li><article><a href="//psyked.github.io/newsletter/summary/may-newsletter/">May Roundup <span class="entry-date"><time datetime="2014-06-02T00:00:00-04:00">June 02, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/plugins/carousel-plugins/">Carousels – Which are the good ones out there? <span class="entry-date"><time datetime="2014-06-02T00:00:00-04:00">June 02, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/performance/cache-busting/">Cache Busting <span class="entry-date"><time datetime="2014-06-02T00:00:00-04:00">June 02, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/testing/testing-suite/">Introducing the Testing Suite <span class="entry-date"><time datetime="2014-05-30T00:00:00-04:00">May 30, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/accessibility/make-your-website-accessible/">Make your website accessible <span class="entry-date"><time datetime="2014-04-13T00:00:00-04:00">April 13, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/presentations/responsive-images/">Responsive Images (in 10 minutes) <span class="entry-date"><time datetime="2014-03-27T00:00:00-04:00">March 27, 2014</time></span></a></article></li>
- 
-  <li><article><a href="//psyked.github.io/newsletter/tools/automate-all-the-things/">Automation For The Win <span class="entry-date"><time datetime="2014-03-05T00:00:00-05:00">March 05, 2014</time></span></a></article></li>
+        <h2 id="introduction">Introduction</h2>
+<p>Caching busting stops browsers from using a cached file when an new updated version is available.</p>
 
+<p>If you are following best practices for caching your assets (<a href="https://developers.google.com/speed/docs/best-practices/caching">Google - Optimize Caching</a>) you might find that browsers will used the cached version of a file even when a new updated version is available.</p>
+
+<p>This issue becomes worse when proxies, load balancers and other <em>helpful</em> machines are taken into consideration.</p>
+
+<p>To get around problem you need to <em>cache bust</em> meaning that the browser and anything in between knows to request the latest version of the file. There are a number of ways this can be done, best practice is to rename the whole file by appending a version number, date/time or hash to the end of the file name.</p>
+
+<p>This process can be done a number of ways including: Build process, Grunt or Web server configuration.</p>
+
+<h2 id="summary">Summary</h2>
+<ul>
+  <li>Browsers, proxies and other servers can cache files even when they have changed.</li>
+  <li>Giving a file a unique filename will help break any caching occurring on file updates.</li>
+  <li>Renaming the file is better than adding a query string.</li>
+  <li>Multiple ways of automating this process. Build Process, Grunt, Web Server configuration.</li>
 </ul>
+
+<h2 id="further-reading">Further Reading</h2>
+<ul>
+  <li><a href="http://www.adopsinsider.com/ad-ops-basics/what-is-a-cache-buster-and-how-does-it-work/">What is a cache buster and how does it work?</a> </li>
+  <li><a href="http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/">Revving Filenames: don’t use querystring</a></li>
+  <li><a href="https://developers.google.com/speed/docs/best-practices/caching?csw=1#LeverageProxyCaching">Google : Leverage proxy caching</a></li>
+</ul>
+
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
